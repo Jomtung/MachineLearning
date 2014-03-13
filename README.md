@@ -3,4 +3,5 @@
 This machine learning section will be made of web crawling, data mining,
 probabilistic/stochastic analysis, and other interesting engineering tasks.
 
-[2048](http://jomtung.github.io/2048-AI) - AI Testing
+AI Testing:
+  - [2048](http://jomtung.github.io/2048-AI) => [Implement Solving Algos](https://github.com/Jomtung/2048-AI)
